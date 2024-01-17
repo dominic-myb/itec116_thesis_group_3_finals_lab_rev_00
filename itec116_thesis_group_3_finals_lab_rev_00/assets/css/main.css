@@ -1,0 +1,40 @@
+#header-container{
+    margin: 0px;
+    padding: 0px;
+}
+#footer-container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 0px;
+    width: 100vw;
+    background-color: #00e300;
+}
+.footer-container .content{
+    padding: 1rem;
+    color: #eeeeee;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 0;
+    margin: 0;
+}
+.header-links-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-flow: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 10%;
+}
+.header-links-container a{
+    color: #ef8080;
+    text-decoration: none;
+    font-size: 1rem;
+}
