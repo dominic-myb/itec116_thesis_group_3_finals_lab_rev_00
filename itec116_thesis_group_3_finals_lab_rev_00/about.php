@@ -1,7 +1,7 @@
 <?php $pageTitle = "About"?>
 <!DOCTYPE html>
 <html lang="en">
-<?php include "app/includes/html/html_head.php"; ?>
+<?php include "app/includes/html/html.head.php"; ?>
 <body>
 <?php include "app/includes/components/header.php";?>
     <h1>This is about page!</h1>

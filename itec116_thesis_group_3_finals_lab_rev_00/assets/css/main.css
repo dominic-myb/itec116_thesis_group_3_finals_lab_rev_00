@@ -1,6 +1,7 @@
 #header-container{
     margin: 0px;
     padding: 0px;
+    
 }
 #footer-container{
     position: absolute;
@@ -8,7 +9,7 @@
     left: 0;
     padding: 0px;
     width: 100vw;
-    background-color: #00e300;
+    /* background-color: #00e300; */
 }
 .footer-container .content{
     padding: 1rem;
